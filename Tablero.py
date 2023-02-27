@@ -3,6 +3,7 @@ negro="[##]"
 
 columnas=int(input("ingrese cantidad de columnas: "))
 f=int(input("ingrese cantidad de filas: "))
+print("el tablero es el siguiente:\n")
 
 while f>0:
         linea=""
